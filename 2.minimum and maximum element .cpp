@@ -6,7 +6,7 @@ pair<long long, long long> getMinMax(long long a[], int n) {
         }
         if (p > a[i]){
             p = a[i];
-        }
+        } 
     }
     return make_pair(p , m);
 }
