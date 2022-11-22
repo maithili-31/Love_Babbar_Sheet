@@ -2,7 +2,7 @@ class Solution{
     public:
     void segregateElements(int arr[],int n)
     {
-        // Your code goes here
+        // Your code goes here 
         int a=0;
         int b[n];
         for(int i = 0; i<n ; i++){
