@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// this can be also used
+// this can be also used 
 // void swap(int *a, int *b){
 //     int temp = *a;
 //     *a = *b ;
