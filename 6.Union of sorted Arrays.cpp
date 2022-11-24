@@ -37,7 +37,7 @@ int doUnion(int a[], int n, int b[], int m)  {
             if(a[i] == a[i-1]){
                 i++;
             }
-            
+             
             else if(b[j] == b[j-1]){
                 j++;
             }
